@@ -108,5 +108,3 @@ Impact on Farmers
   Praveen Kumar G, Kalaiarasan T, Priyadharshini V, Divya A (2023) - "Smart Agriculture Monitoring System" in International Journal of Engineering Research & Technology (IJERT).
 - Pratik G. Khedekar, Dr. Neha R. Deshpande, Prof. Dr. Arvind D. Shaligram (2023) - "IoT-Enabled Smart Crop Monitoring Systems for Sustainable Agriculture" in International Journal of Engineering Research & Technology (IJERT).
 
-<h3>Remove These Lines</h3>
-<ul><li>Details / Links of the reference and research work</li></ul>
